@@ -1,7 +1,7 @@
 # Aspiring graphics engineer and game developer.
 # My Links:
-# Telegram: [@demureRonin](https://t.me/demureRonin) <br />
-# Itch.io: https://demureronin.itch.io/ <br />
+Telegram: [@demureRonin](https://t.me/demureRonin) <br />
+Itch.io: https://demureronin.itch.io/ <br />
 
 
 # 💻 Tech Stack:
