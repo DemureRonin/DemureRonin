@@ -1,4 +1,4 @@
-# Tech Artist, Game Developer, Level Designer, Graphics Engineer
+
 # My Links:
 Telegram: [@demureRonin](https://t.me/demureRonin) <br />
 Itch.io: https://demureronin.itch.io/ <br />
